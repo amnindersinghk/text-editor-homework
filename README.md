@@ -25,6 +25,6 @@ The goal of this assignment was to build a text editor that runs in the browser.
 - Deplyed application to render.
 
 #### Result
-- GitHub Link: 
+- GitHub Link: https://github.com/amnindersinghk
 
 Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.

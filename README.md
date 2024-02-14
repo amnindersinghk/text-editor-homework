@@ -25,7 +25,6 @@ The goal of this assignment was to build a text editor that runs in the browser.
 - Deplyed application to render.
 
 #### Result
-- GitHub Link: (https://github.com/aqtagon/PWA-Text-Editor-Homework)
-- Deployed Link: (https://pwa-text-editor-s3h1.onrender.com/)
+- GitHub Link: 
 
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
